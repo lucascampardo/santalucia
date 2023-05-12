@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Exemplo de Matriz
 main(){
     int l,c;
     int matriz[3][2]={{25,36},{9,14},{6,22}};
