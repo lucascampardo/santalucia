@@ -6,4 +6,9 @@ main() {
     printf("Vetor desordenado \n");
     for(x=0;x<5;x++)
         printf("[%d]=%d \n",x,vetor[x]);
+
+    printf("Vetor Ordenado \n");
+    for(x=0;x<5;x++)
+    printf("[%d]=%d \n",x,vetor[x]);
+        printf("[%d]=%d \n",x,vetor[x]);
 }
